@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg"
+    version="1.1" width="400px" height="200px" viewBox="0 0 1020 510">
+    <defs />
+    <rect
+         width="991.27"
+         height="484.28"
+         x="14.97"
+         y="12.75"
+         id="rect3907"
+         style="fill:#008855;fill-opacity:1;stroke:none" />
+    <path
+         d="M 309.29,257.43 401.25,165 461.96,164.88 392.97,235.33 593.25,235.36 593.28,279.76 393.65,279.06 463.04,349.63 401.65,349.86 z"
+         id="path2995"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;" />
+    <path
+         d="M 730.33,117.66 A 35.433,35.943 0 1 1 659.47,117.66 35.433,35.943 0 1 1 730.33,117.66 z"
+         transform="matrix(1.1474,0,0,1.1598,-60.485,-16.934)"
+         style="fill:#ffffff;fill-opacity:1;stroke:none" />
+    <path
+         d="M 648.71,241.84 648.84,275.39 760.57,275.65 760.57,226.57 802.08,298.88 728.72,343.39 728.72,464.53 763.71,464.53 763.58,362.84 837.85,318.85 837.59,407.75 974.52,407.35 974.52,371.33 873.35,371.59 873.61,285.7 804.56,169.52 864.35,169.65 902.98,234.66 931.96,217.17 882.23,135.45 785.77,135.72 C 776.15,163.21 756.56,173.82 728.85,170.7 L 728.72,241.19 z"
+         style="fill:#ffffff;fill-opacity:1;stroke:none" />
+    <rect
+         width="199.85"
+         height="406.74"
+         x="51.519"
+         y="51.78"
+         style="fill:#ffffff;fill-opacity:1;stroke:none" />
+</svg>
